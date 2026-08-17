@@ -27,7 +27,7 @@ research — from student tools to systems that actually stay in use.
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,firebase,python,cpp,arduino,git,figma,vercel)
+![](https://skillicons.dev/icons?i=django,nextjs,react,ts,js,tailwind,firebase,python,cpp,arduino,git,figma,vercel)
 
 ## Featured Projects
 
