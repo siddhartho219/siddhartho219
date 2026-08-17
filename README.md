@@ -64,12 +64,11 @@ research — from student tools to systems that actually stay in use.
 ## Connect
 
 - Portfolio: [siddartho.vercel.app](https://siddartho.vercel.app)
-- LinkedIn: [in/siddhartho-sarker-b5452822a](https://www.linkedin.com/in/siddhartho-sarker-b5452822a/)
+- LinkedIn: [[in/siddhartho-sarker-b5452822a](https://www.linkedin.com/in/siddartho-sarker-bipro-b5452822a/)]
 - Email: siddharthosarker219@gmail.com
 
 ## Research
 
-- ICCIT Paper Author
 - Working on EIE Framework for Sustainable Medical AI Systems
 
 ## Connect
