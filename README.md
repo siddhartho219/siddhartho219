@@ -52,15 +52,6 @@ research — from student tools to systems that actually stay in use.
   Bangla/English, bundled fonts, school/bank/government templates)
 - Outcome: reusable class, in use for own submissions
 
-## Research
-
-- Co-author, Green Computing paper — submitted for blind review at
-  ICCIT, currently being extended for journal submission
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=siddhartho219&show_icons=true&theme=dark&hide_border=true)
-
 ## Connect
 
 - Portfolio: [siddartho.vercel.app](https://siddartho.vercel.app)
