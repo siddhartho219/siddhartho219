@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Siddhartho Sarker Bipro 👋
 
-Software Engineering student at United International University (UIU),
+CS student at United International University (UIU),
 building full-stack platforms, embedded systems, and AI-efficiency
 research — from student tools to systems that actually stay in use.
 
